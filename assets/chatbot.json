@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cedar-talent-316417",
+  "private_key_id": "51cd8f032cbb210c0579ebae72c1d6d26b853fef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXJeY+WGfojuUx\n6jdOJlSMASFSQ0nZ4YdPpNIAW6OW751ULm+1AbxD2Yzg7d99jnzoM8v2LtN4KS2N\n8l6NRbdZJ+YynhK+bfz9VZyT7FLQbspf+IVqKhJlaAUniCi1wNgkLohwVMo4nUKr\npecHZ9zO8HbMqXSrrDz+YqXJyPTDxT47FzpDpTMOm0ECE788P8gE03sCztlXvtZv\nYEIpxMJDG2XaoScEbg3zX9Qv8irCcFnAwRDz6KbHbQXnQgle3KlKKA70jsfwdOl0\nTHIewvXYqYS+WraM8BtlDuphkPyFx+4T8nQhFDp8F4DxH+9Yt8F2dgiiZ7M/6vpE\nl7IubzUPAgMBAAECggEAQnE1kkh4fOF73QJRh3gQCG9iv2+24iFiwt74NZITCoGQ\njnXPQyldIhJa/HF0ohPl0okaasDQ0ux/Cvv1FnMEExwX9D5KjQ16fb6Jkvj6uodJ\nTQDJXQ7bgVpFkcgn5SW9ncIa1g5fyp1Otne6ZCYDCbDo+DSxhdm0AjtJF7fP6NJ5\nniJLWoYtUeUdw9FQSSWOFuiRqI3hTYB+UkKXo+QiVN6M9bfRbuRlIQ+sGIs/zgyN\nfmV2LW8jpVajfjL/V73/MKQoJU5sWvSUByFUFFcioW7eRDi6z+jiTwG1h76OuTVo\naq3kQN38I0PmRrUwVlOHoNoevCoOVZZ9ayEJaa9r4QKBgQDSjkNUmOR+3p5MtysZ\nREt2rZ9t07IWlFTifZmlx0RxRCRIfj2ZK05gnl/sLr2Gtdzb11CpMmH9BMtLMc7s\nsw/vjObT99dbVft6If6PWBmvQNysMQQPKeJ8y82Btya6kvjC6tpX0RRk+O+O0vsM\njPSQlotCR3LMxCPGyLGSyGZVnwKBgQC3xTZFXPfIB41rN04pjxT2lSkLowJVs2BS\najXG6xUxPKmhGp/vEtu70ju+c4pINWDD3SHY0uL9NuLf+oRdL8Or06vf4fSSlEyR\nqz3+4Hk2BjJhnFaZqT0IrFMvaI8vI36+ZMwXK2nBpk8lgDB20PQAsx2UlOejR/Ao\nOomawg+KkQKBgA+jyZSLFs3ls1R3dpgV3pUeKG18AAp1UijQs40A1DCloxxPZDvw\nX44FtZJRlnpfH9ykjbVDrMuig4c+V+R1GIXurWapTjHWnSthQwtau+2sn7eanHaT\n4eLrMISmGhZZvGieEUHcoesuIn01Zrhz7+adiBKQRBK5rv6hAa+pexB5AoGAcUXy\nKdcgM//Tv56bYyp6tXNDlZSov8KNQL+O3knRCkRmGpOauXZaUu9HPCFjvxaHyrLn\nRgrXN1U5iu2T4QysA6G5c4qHgkI+4Bs5X31luVMgguImzxhuMoZlz/cXKusqGJlw\n42czDNZCOs9FEDfD7xp4xTjzfsW81k8eunGbusECgYEAxHDCRU6yN/IDh+mQmgKs\n4ZOvnr+H/jHaH4eYst9IHvqRwwPBfsVQUCwASLOOXLLctHoChyrD1SZ+KJ3D4SHe\ngkfrovWSuflMtq9CjOvLGHqMmaeEbn2BFTlDFVsW7IYcIyPawkCnPOKn2SPNDSVU\ndMtLC8foSeqqLW19YihKLK8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@cedar-talent-316417.iam.gserviceaccount.com",
+  "client_id": "109311273960979433632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40cedar-talent-316417.iam.gserviceaccount.com"
+}
